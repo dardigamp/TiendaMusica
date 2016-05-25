@@ -1,0 +1,28 @@
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\obj\Debug\TiendaMusica.Data.EF.csprojResolveAssemblyReference.cache
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Data.EF.dll.config
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Data.EF.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Data.EF.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\EntityFramework.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Data.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Dominio.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Data.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Dominio.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\EntityFramework.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\obj\Debug\TiendaMusica.Data.EF.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.EF\obj\Debug\TiendaMusica.Data.EF.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Data.EF.dll.config
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Data.EF.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Data.EF.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\EntityFramework.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Data.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Dominio.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Data.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\TiendaMusica.Dominio.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\EntityFramework.xml
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\obj\Debug\TiendaMusica.Data.EF.csprojResolveAssemblyReference.cache
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\obj\Debug\TiendaMusica.Data.EF.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.EF\obj\Debug\TiendaMusica.Data.EF.pdb

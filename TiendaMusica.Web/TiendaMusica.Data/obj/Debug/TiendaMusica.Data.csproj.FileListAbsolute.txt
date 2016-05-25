@@ -1,0 +1,14 @@
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data\bin\Debug\TiendaMusica.Data.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data\bin\Debug\TiendaMusica.Data.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data\bin\Debug\TiendaMusica.Dominio.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data\bin\Debug\TiendaMusica.Dominio.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data\obj\Debug\TiendaMusica.Data.csprojResolveAssemblyReference.cache
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data\obj\Debug\TiendaMusica.Data.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data\obj\Debug\TiendaMusica.Data.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data\bin\Debug\TiendaMusica.Data.dll
+D:\TiendaMusica.Web\TiendaMusica.Data\bin\Debug\TiendaMusica.Data.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data\bin\Debug\TiendaMusica.Dominio.dll
+D:\TiendaMusica.Web\TiendaMusica.Data\bin\Debug\TiendaMusica.Dominio.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data\obj\Debug\TiendaMusica.Data.csprojResolveAssemblyReference.cache
+D:\TiendaMusica.Web\TiendaMusica.Data\obj\Debug\TiendaMusica.Data.dll
+D:\TiendaMusica.Web\TiendaMusica.Data\obj\Debug\TiendaMusica.Data.pdb

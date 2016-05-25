@@ -1,0 +1,50 @@
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Infraestructura.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Infraestructura.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Logica.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Dominio.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Logica.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Dominio.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\obj\Debug\TiendaMusica.Infraestructura.csprojResolveAssemblyReference.cache
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\obj\Debug\TiendaMusica.Infraestructura.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\obj\Debug\TiendaMusica.Infraestructura.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.EF.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.EF.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.InsightDB.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\Insight.Database.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.InsightDB.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\Insight.Database.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\Insight.Database.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\NPOI.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\NPOI.xml
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Infraestructura.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Infraestructura.pdb
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\EntityFramework.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.EF.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.InsightDB.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Logica.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Dominio.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\Insight.Database.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\NPOI.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.EF.pdb
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.InsightDB.pdb
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Data.pdb
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Logica.pdb
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\EntityFramework.xml
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\TiendaMusica.Dominio.pdb
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\EntityFramework.SqlServer.xml
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\Insight.Database.pdb
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\Insight.Database.xml
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\bin\Debug\NPOI.xml
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\obj\Debug\TiendaMusica.Infraestructura.csprojResolveAssemblyReference.cache
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\obj\Debug\TiendaMusica.Infraestructura.dll
+D:\TiendaMusica.Web\TiendaMusica.Infraestructura\obj\Debug\TiendaMusica.Infraestructura.pdb

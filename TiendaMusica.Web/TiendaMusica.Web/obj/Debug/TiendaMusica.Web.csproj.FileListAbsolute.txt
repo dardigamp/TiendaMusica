@@ -1,0 +1,192 @@
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\csc.exe
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\vbc.exe
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Web.dll.config
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Web.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Web.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\Antlr3.Runtime.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\Newtonsoft.Json.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\RouteDebugger.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Helpers.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Mvc.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Optimization.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Razor.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Infraestructura.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Logica.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\WebGrease.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Dominio.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Infraestructura.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Logica.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Helpers.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Mvc.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Optimization.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Razor.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\Newtonsoft.Json.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Dominio.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\obj\Debug\TiendaMusica.Web.csprojResolveAssemblyReference.cache
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\obj\Debug\TiendaMusica.Web.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\obj\Debug\TiendaMusica.Web.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.InsightDB.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\Insight.Database.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.InsightDB.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\Insight.Database.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\Insight.Database.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\NPOI.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Web\bin\NPOI.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\obj\Debug\TiendaMusica.Web.csprojResolveAssemblyReference.cache
+D:\TiendaMusica.Web\TiendaMusica.Web\obj\Debug\TiendaMusica.Web.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\obj\Debug\TiendaMusica.Web.pdb
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\csc.exe
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\vbc.exe
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\VBCSCompiler.exe
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Web.dll.config
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Web.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Web.pdb
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\Antlr3.Runtime.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\Newtonsoft.Json.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\RouteDebugger.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Helpers.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Mvc.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Optimization.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Razor.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Deployment.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Razor.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Infraestructura.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Logica.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\WebGrease.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.InsightDB.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\NPOI.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Dominio.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\Insight.Database.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\ICSharpCode.SharpZipLib.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Infraestructura.pdb
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Logica.pdb
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Helpers.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Mvc.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Optimization.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Razor.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Deployment.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Razor.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\Antlr3.Runtime.pdb
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\Newtonsoft.Json.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.InsightDB.pdb
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.pdb
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\NPOI.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Dominio.pdb
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\Insight.Database.pdb
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\Insight.Database.xml
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Helpers.resources.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Mvc.resources.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Optimization.resources.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Razor.resources.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.WebPages.resources.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\csc.exe
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\vbc.exe
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Web.dll.config
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Web.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Web.pdb
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\Antlr3.Runtime.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\Newtonsoft.Json.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\RouteDebugger.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Helpers.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Mvc.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Optimization.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Razor.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Infraestructura.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Logica.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\WebGrease.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.InsightDB.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\NPOI.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Dominio.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\Insight.Database.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Infraestructura.pdb
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Logica.pdb
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Helpers.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Mvc.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Optimization.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.Razor.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\Newtonsoft.Json.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.InsightDB.pdb
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Data.pdb
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\NPOI.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\TiendaMusica.Dominio.pdb
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\Insight.Database.pdb
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\Insight.Database.xml
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\obj\Debug\TiendaMusica.Web.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\obj\Debug\TiendaMusica.Web.dll
+C:\Users\Darwin\Source\Repos\TiendaMusica\TiendaMusica.Web\TiendaMusica.Web\obj\Debug\TiendaMusica.Web.pdb

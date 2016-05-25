@@ -1,0 +1,36 @@
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Data.InsightDB.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Data.InsightDB.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Configuration.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Providers.Default.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Data.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Dominio.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Data.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Dominio.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Configuration.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Configuration.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Providers.Default.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Providers.Default.xml
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\obj\Debug\TiendaMusica.Data.InsightDB.csprojResolveAssemblyReference.cache
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\obj\Debug\TiendaMusica.Data.InsightDB.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Data.InsightDB\obj\Debug\TiendaMusica.Data.InsightDB.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Data.InsightDB.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Data.InsightDB.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Configuration.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Providers.Default.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Data.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Dominio.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Data.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\TiendaMusica.Dominio.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.xml
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Configuration.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Configuration.xml
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Providers.Default.pdb
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\bin\Debug\Insight.Database.Providers.Default.xml
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\obj\Debug\TiendaMusica.Data.InsightDB.csprojResolveAssemblyReference.cache
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\obj\Debug\TiendaMusica.Data.InsightDB.dll
+D:\TiendaMusica.Web\TiendaMusica.Data.InsightDB\obj\Debug\TiendaMusica.Data.InsightDB.pdb

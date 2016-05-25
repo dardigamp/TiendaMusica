@@ -1,0 +1,8 @@
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Dominio\bin\Debug\TiendaMusica.Dominio.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Dominio\bin\Debug\TiendaMusica.Dominio.pdb
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Dominio\obj\Debug\TiendaMusica.Dominio.dll
+C:\Users\Net-Sab\Downloads\mvc5_6-master (3)\mvc5_6-master\TiendaMusica.Web\TiendaMusica.Dominio\obj\Debug\TiendaMusica.Dominio.pdb
+D:\TiendaMusica.Web\TiendaMusica.Dominio\bin\Debug\TiendaMusica.Dominio.dll
+D:\TiendaMusica.Web\TiendaMusica.Dominio\bin\Debug\TiendaMusica.Dominio.pdb
+D:\TiendaMusica.Web\TiendaMusica.Dominio\obj\Debug\TiendaMusica.Dominio.dll
+D:\TiendaMusica.Web\TiendaMusica.Dominio\obj\Debug\TiendaMusica.Dominio.pdb
